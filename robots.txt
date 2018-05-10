@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /favicon.ico
+Disallow: /assets/
+
+Sitemap: https://zhangbibi1210.github.io/sitemap.xml
